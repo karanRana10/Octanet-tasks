@@ -1,2 +1,2 @@
 # Octanet-tasks
-Internship Tasks
+Internship-Tasks
